@@ -1,2 +1,2 @@
 # phi-friday-git-goes-wrong
-This will be fun!
+This will be super fun!
